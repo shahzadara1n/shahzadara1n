@@ -60,7 +60,5 @@ Code Working:
 
 
 Summary:
-    It captures video frames from the camera, processes them to extract the hand region, and resizes it to a
-    fixed size. Then it displays the original and the cropped hand images. When the user presses the 's' key,
-    it saves the cropped hand image and the corresponding label in "data" folder. Then the code uses a pre-trained
-    deep learning model to classify the hand gesture and display the predicted label on the video stream.
+    It captures video frames from the camera, processes them to extract the hand region, and resizes it to a fixed size. Then it displays the original and the cropped hand images. When the user presses the 's' key, it saves the cropped hand image and the corresponding label in "data" folder. Then the code uses a pre-trained deep learning model to classify the hand gesture and display the predicted label on the video stream.
+
